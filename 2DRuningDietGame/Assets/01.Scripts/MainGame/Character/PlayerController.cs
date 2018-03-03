@@ -196,7 +196,7 @@ public class PlayerController : MonoBehaviour
     {
         if(false == _isFever)
         {
-            _velocity.x = 3.0f;
+            _velocity.x = 0.0f;
         }
     }
 
